@@ -1,0 +1,9 @@
+###
+GET http://mtsapserver6a.themdlabs.com:8000/sap/opu/odata/sap/ZKNA1_REF_SRV_SRV/?$format=xml
+Authorization: Basic Uk9DVEFCQVAwMzpTYXBhYmFwQDEyMw==
+Content-Type: application/json
+
+###
+GET http://mtsapserver6a.themdlabs.com:8000/sap/opu/odata/sap/ZKNA1_REF_SRV_SRV/CustomerRefSet?$format=json
+Authorization: Basic Uk9DVEFCQVAwMzpTYXBhYmFwQDEyMw==
+Content-Type: application/json
