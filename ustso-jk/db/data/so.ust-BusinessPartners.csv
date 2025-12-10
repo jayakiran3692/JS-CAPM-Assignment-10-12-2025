@@ -1,0 +1,5 @@
+ID,bpCode,bpName,bpType,email,phone,gstNumber,paymentTerms_code,paymentTerms_text,isActive,createdAt,createdBy,modifiedAt,modifiedBy,bpAddress_street,bpAddress_city,bpAddress_region,bpAddress_country,bpAddress_postal
+BP001,BP-0001,Acme Industries,Customer,contact@acme.com,+1-202-555-0101,27AAACA0001Z5,N30,Net 30 days,true,2025-02-01T09:00:00Z,SYSTEM,2025-02-01T09:30:00Z,SYSTEM,100 Market Street,New York,NY,US,10001
+BP002,BP-0002,Global Retail Corp,Customer,sales@globalretail.com,+44-20-7946-0102,27BBBGB0002Z6,N15,Net 15 days,true,2025-02-01T09:10:00Z,SYSTEM,2025-02-01T09:40:00Z,SYSTEM,45 High Street,London,LDN,GB,SW1A1AA
+BP003,BP-0003,Metro Metals Ltd,Vendor,info@metrometals.com,+91-22-4050-0103,27CCCCM0003Z7,N30,Net 30 days,true,2025-02-01T09:20:00Z,SYSTEM,2025-02-01T09:50:00Z,SYSTEM,12 Industrial Road,Mumbai,MH,IN,400001
+BP004,BP-0004,Pacific Plastics Inc,Both,service@pacificplastics.com,+1-310-555-0104,27DDDDP0004Z8,CASH,Cash on delivery,true,2025-02-01T09:30:00Z,SYSTEM,2025-02-01T10:00:00Z,SYSTEM,800 Ocean Avenue,Los Angeles,CA,US,90001

@@ -1,0 +1,4 @@
+ID,materialCode,description,createdAt,createdBy,modifiedAt,modifiedBy
+"MM-MAT-001","MM-001","Steel Rod","2025-01-10T08:00:00Z","SYSTEM","2025-01-10T08:00:00Z","SYSTEM"
+"MM-MAT-002","MM-002","Aluminium Sheet","2025-01-10T09:00:00Z","SYSTEM","2025-01-10T09:00:00Z","SYSTEM"
+"MM-MAT-003","MM-003","Copper Wire","2025-01-10T10:00:00Z","SYSTEM","2025-01-10T10:00:00Z","SYSTEM"

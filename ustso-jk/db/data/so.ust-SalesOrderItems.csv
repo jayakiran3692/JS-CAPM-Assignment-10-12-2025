@@ -1,0 +1,5 @@
+ID,header_ID,itemNo,material_ID,materialCode,materialDesc,quantity,uom,netPrice,discountPercent,taxPercent,lineNetAmount,lineTaxAmount,lineGrossAmount,deliveryStatus,createdAt,createdBy,modifiedAt,modifiedBy
+SOI001,SO001,10,MAT001,M-001,Steel Rod 10mm,10,KG,100,5,10,950,95,1045,Open,2025-02-01T10:05:00Z,SYSTEM,2025-02-01T10:35:00Z,SYSTEM
+SOI002,SO002,10,MAT002,M-002,Aluminium Sheet 5mm,5,KG,150,0,10,750,75,825,Released,2025-02-02T10:15:00Z,SYSTEM,2025-02-02T10:45:00Z,SYSTEM
+SOI003,SO003,10,MAT003,M-003,Copper Wire 2mm,20,MTR,50,2,10,980,98,1078,Open,2025-02-03T10:25:00Z,SYSTEM,2025-02-03T10:55:00Z,SYSTEM
+SOI004,SO004,10,MAT004,M-004,Plastic Granules Grade A,15,KG,40,0,10,600,60,660,Cancelled,2025-02-04T10:35:00Z,SYSTEM,2025-02-04T11:15:00Z,SYSTEM

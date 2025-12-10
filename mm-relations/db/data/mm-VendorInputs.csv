@@ -1,0 +1,5 @@
+ID,rawMaterial_ID,vendorName,vendorRating,vendorPrice,createdAt,createdBy,modifiedAt,modifiedBy
+"VN-001","RM-MAT-001","ABC Metals",4,120.50,"2025-01-12T08:00:00Z","SYSTEM","2025-01-12T08:00:00Z","SYSTEM"
+"VN-002","RM-MAT-002","Global Carbon Suppliers",5,90.00,"2025-01-12T09:00:00Z","SYSTEM","2025-01-12T09:00:00Z","SYSTEM"
+"VN-003","RM-MAT-003","AluTech Traders",3,150.75,"2025-01-12T10:00:00Z","SYSTEM","2025-01-12T10:00:00Z","SYSTEM"
+"VN-004","RM-MAT-004","CopperOne Supplies",4,180.00,"2025-01-12T11:00:00Z","SYSTEM","2025-01-12T11:00:00Z","SYSTEM"
